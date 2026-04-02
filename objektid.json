@@ -123,39 +123,39 @@
 
   "Kapp15": {
     "nimi": "Elektrikapimaal",
-    "kirjeldus": "\"Eesti inimeste soovid\"\nAutor Kadri Kosk (2025)\nTeosed valmisid osana festivalist TÕGE.",
+    "kirjeldus": "\"Eesti inimeste soovid\"\nTeosed valmisid osana festivalist TÕGE.",
+    "viide": "Autor Kadri Kosk (2025)",
+    "pildid": []
+  },
+
+  "Kapp16": {
+    "nimi": "Elektrikapimaal",
+    "kirjeldus": "Teema on vanapagana petmine kolme punase marjaga.\nTeosed valmisid osana festivalist TÕGE.",
+    "viide": "Autor Kristina Viin (2025)",
+    "pildid": []
+  },
+
+  "Linnus": {
+    "nimi": "Palalinna linnuse tähis",
+    "kirjeldus": "Palalinna linnus rajati 1.aastatuhande teisel poolel praegusele Sootaga voorele. Oli ilmselt varjumiskohaks ümberkaudsetele elanikele vaenlase eest. Linnuse õueala on ca 38m pikk. Sinna pääseb mööda nn Rebasemäge. Näha on linnust ümbritsevad vallikraavid. Linnusel on tehtud korduvalt arheoloogilisi väljakaevamisi. Vanarahva juttude järgi olevat Palalinn saanud nime peale maha põlemist. Põlema-palama.",
     "viide": "",
-    "pildid": []
-  },
-
-  "16": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
-    "pildid": []
-  },
-
-  "17": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
     "pildid": [{
-    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
-    "allikas": "Eve Tootsi erakogu"
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR17_LINNUS.png",
+    "allikas": "Pilt: V. Rohtla"
   }]
   },
 
-  "18": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Kapp18": {
+    "nimi": "Elektrikapimaal",
+    "kirjeldus": "Kunstniku autoportree koeraga.\nTeosed valmisid osana festivalist TÕGE.",
+    "viide": "Autor Kudrun Vungi (2024)",
     "pildid": []
   },
 
-  "19": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Kapp19": {
+    "nimi": "Elektrikapimaal",
+    "kirjeldus": "Teosed valmisid osana festivalist TÕGE.",
+    "viide": "Autor tänavakunstnik Kairo (2025)",
     "pildid": []
   },
 
