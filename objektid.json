@@ -159,77 +159,77 @@
     "pildid": []
   },
 
-  "20": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Terviserada": {
+    "nimi": "Mälestuskivi Lähte terviseradade rajajale Raul Edelale",
+    "kirjeldus": "Raul Edela (13.11.1953–19.03.2009) mälestuskivi. Raul Edela oli sporditreener ja Palalinna suusaradade rajamise eestvedaja aastatel 1993-2009. Suusaradadest on tänaseks kasvanud välja Lähte Terviserajad, mida haldab Tartu Valla Spordikool. Terviseradasid on erineva pikkusega ja need sobivad iga tasemega sportlastele",
+    "viide": "",
     "pildid": [{
-    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
-    "allikas": "Eve Tootsi erakogu"
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR20_TERVISERADA.png",
+    "allikas": "Pilt: Viivi Rohtla"
   }]
   },
 
-  "21": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Vaatetorn": {
+    "nimi": "Vaatetorni asukoht",
+    "kirjeldus": "Siin asus vaatetorn kuni aastani 2023, mil see lammutati. Uus vaatetorn on projekteeritud/planeeritud.",
+    "viide": "",
     "pildid": [{
-    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
-    "allikas": "Eve Tootsi erakogu"
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR21_VAATETORN.png",
+    "allikas": "Pilt: Viivi Rohtla"
   }]
   },
 
-  "22": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Kapp22": {
+    "nimi": "Elektrikapimaal",
+    "kirjeldus": "Teosed valmisid osana festivalist TÕGE.",
+    "viide": "Autor Hannagrete Pruks (2025)",
     "pildid": []
   },
 
-  "23": {
+  "Kapp23": {
     "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+    "kirjeldus": "\"Green Man (Metsavana)\"\nTeosed valmisid osana festivalist TÕGE.",
+    "viide": "Autor hollandi kirjanik Tim Palmen (2025)",
     "pildid": []
   },
 
-  "24": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Kalevipoeg": {
+    "nimi": "Kalevipoja raamat",
+    "kirjeldus": "Tootmishoone, mis välimuselt raamatukujuline - nii suur raamat sobib ikka Kalevipojale.",
+    "viide": "",
     "pildid": [{
-    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
-    "allikas": "Eve Tootsi erakogu"
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR24_KALEVIPOEG.png",
+    "allikas": "Pilt: L. Kivitar"
   }]
   },
 
-  "25": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Vilistlane": {
+    "nimi": "Vilistlaste allee",
+    "kirjeldus": "Vilistlaste allee esimese puu istutamine 1985.",
+    "viide": "",
     "pildid": [{
-    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
-    "allikas": "Eve Tootsi erakogu"
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR25_VILISTLASED.png",
+    "allikas": "Pilt A. Sarv"
   }]
   },
 
-  "26": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Piimapukk": {
+    "nimi": "Piimapukk",
+    "kirjeldus": "Piimapukk/bussipeatus aastal 1966.",
+    "viide": "",
     "pildid": [{
-    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
-    "allikas": "Eve Tootsi erakogu"
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR_26_PIIMAPUKK.png",
+    "allikas": "Pilt A. Sarv"
   }]
   },
 
-  "27": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Aktund": {
+    "nimi": "Mälestuspink \"Akadeemiline tund\"",
+    "kirjeldus": "Lähte kooli perele kooli 65. sünnipäevaks pühendatud pink avati aastal 2025.",
+    "viide": "",
     "pildid": [{
-    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
-    "allikas": "Eve Tootsi erakogu"
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR_27_AKTUND.png",
+    "allikas": "Pilt V. Rohtla"
   }]
   }
 }
