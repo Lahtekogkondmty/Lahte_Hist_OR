@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Objekti kirjeldus</title>
+
+<style>
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: #f5f5f5;
+        margin: 0;
+        padding: 0;
+    }
+
+    .wrapper {
+        max-width: 440px;
+        margin: 0 auto;
+        background: rgb(94, 149, 119);
+        padding: 42px 24px 24px;
+        color: white;
+    }
+
+    h1 {
+        font-size: 24px;
+        text-align: center;
+        margin-top: 0;
+        margin-bottom: 16px;
+        font-family: Verdana, Geneva, sans-serif;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 16px;
+        text-align: left;
+    }
+
+    .viide {
+        text-align: center;
+        font-size: 20px;
+        margin-top: 36px;
+        color: white;
+    }
+
+    .pilt-blokk {
+        margin-top: 20px;
+    }
+
+    .pilt-blokk img {
+        width: 100%;
+        border-radius: 6px;
+    }
+
+    .pildi-allikas {
+        font-size: 14px;
+        color: #e8e8e8;
+        margin-top: 6px;
+        text-align: left;
+        line-height: 1.4;
+    }
+
+    .error {
+        color: #ffdddd;
+        font-weight: bold;
+        text-align: center;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="wrapper">
+    <div id="content">Laen andmeid...</div>
+</div>
+
+<script>
+// --- 1. Võta URL-ist parameeter "obj" ---
+const params = new URLSearchParams(window.location.search);
+const objId = params.get("obj");
+
+// --- 2. Laeme objektid.json ---
+fetch("objektid.json")
+  .then(response => response.json())
+  .then(objektid => {
+
+      const o = objektid[objId];
+
+      // --- Kui objekti ei leitud ---
+      if (!o) {
+          document.getElementById("content").innerHTML = `
+              <h1 class="error">Objekti ei leitud</h1>
+              <p>QR‑kood võib olla vale või selle objekti kirjeldus ei ole veel lisatud.</p>
+          `;
+          return;
+      }
+
+      // --- Kuvame sisu ---
+      let html = `
+          <h1>${o.nimi}</h1>
+          <p>${o.kirjeldus}</p>
+      `;
+
+      // --- Kuvame pildid (0...3) ---
+      if (o.pildid && Array.isArray(o.pildid)) {
+          o.pildid.forEach(p => {
+              if (p.url && p.url.trim() !== "") {
+                  html += `
+                      <div class="pilt-blokk">
+                          <img src="${p.url}" alt="${o.nimi}">
+                          ${p.allikas ? `<p class="pildi-allikas">Allikas: ${p.allikas}</p>` : ""}
+                      </div>
+                  `;
+              }
+          });
+      }
+
+      // --- Viide ---
+      if (o.viide) {
+          html += `<p class="viide">${o.viide}</p>`;
+      }
+
+      document.getElementById("content").innerHTML = html;
+  })
+  .catch(err => {
+      document.getElementById("content").innerHTML = `
+          <h1 class="error">Viga andmete laadimisel</h1>
+          <p>Kontrolli, kas objektid.json on olemas ja õigesti vormindatud.</p>
+      `;
+  });
+</script>
+
+</body>
+</html>
