@@ -43,73 +43,92 @@
   }]
   },
 
-  "6": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Looga": {
+    "nimi": "Looga talu",
+    "kirjeldus": "Looga talu, mille praegune omanik hääldab o-häälikut ülipikana – Loooooga talu, oli ainus, mille omanikud pääsesid küüditamisest ning viimane selle pere liige elas talumajas, mille asemel on nüüd moodne hoone, kuni oma elu lõpuni.",
+    "viide": "",
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR6_LOOGA.png",
+    "allikas": "Pilt: R. Hiiemäe erakogu"
+  }]
+  },
+
+  "Orge": {
+    "nimi": "Mäelt-Tuisu talu / Orge kool",
+    "kirjeldus": "Mäelt-Tuisu talu oli ajavahemikus 1949-58 kasutuses Pupastvere külas mahapõlenud Orge koolina. Kool lõpetas tegevuse peale Lähte kooli avamist 1959. Mäelt-Tuisu talu, mille elanikud küüditati. Orge kooli ajutine hoone peale 2. ms.",
+    "viide": "",
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR7_MAELTTUISU.png",
+    "allikas": "Pilt: Ingrid Nõu erakogu"
+  }]
+  },
+
+  "Tuisu": {
+    "nimi": "Alt-Tuisu talu",
+    "kirjeldus": "Alt-Tuisu talu hävis sõjas. Talu sauniku maja kohale on kerkinud uus hoone.",
+    "viide": "",
     "pildid": []
   },
 
-  "7": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "KatkuKalmistu": {
+    "nimi": "Katkukalmistu",
+    "kirjeldus": "Lasteaia parkla oli kunagi katkukalmistu. Kindlaid tõendeid selle kohta ei ole, aga kohalikud legendid seda väidavad.
+    Esimene katkupuhang toimus Eestis 1378. aastal ja viimane Põhjasõja ajal.",
+    "viide": "",
     "pildid": []
   },
 
-  "8": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Aia": {
+    "nimi": "Avenüü RAMEE / Aia tänav",
+    "kirjeldus": "Tänane Aia tänav kandis oma algusaastatel hüüdnime Avenüü Ramee; esimeste eramajaomanike nimetähtede järgi.",
+    "viide": "",
     "pildid": []
   },
 
-  "9": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Ssor": {
+    "nimi": "Suure Sotsialistliku Oktoobrirevolutsiooni ja Komsomoli park",
+    "kirjeldus": "Mänguväljaku ümbrus kujundati pargiks 1967-1968 Suure Sotsialistliku Oktoobrirevolutsiooni ja Komsomoli 50. aastapäeva puhuks, sellest ka niisugune nimi.",
+    "viide": "",
     "pildid": []
   },
 
-  "10": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Ounad": {
+    "nimi": "Sovhoosi õunaaed",
+    "kirjeldus": "Sovhoosi õunaaed laius siin 1960-1990-ndatel. Tänapäeval on osake õunaaiast säilinud teisel pool Sojamaa teed. Varasemat aega meenutab nüüdses elamupiirkonnas tänavanimi Õuna.",
+    "viide": "",
     "pildid": []
   },
 
-  "11": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+  "Kolmpoodi": {
+    "nimi": "Kolme poe rist / Musta kassi kõrts",
+    "kirjeldus": "Sojamaa-Jõgeva mnt ristis asus 1930ndatel aastatel 3 kauplust – 2 vürtspoodi ja kalapood, sellest ka kunagine nimetus - kolme poe rist.
+    Tähelepandamatu väike elumaja teiselpool Jõgeva maanteed oli kunagi kõrts, mille ajalugu ulatub tagasi Põhjasõja aastatesse (1700-1721). Kohalike suus kandis see nime Musta Kassi kõrts. Lähte/Musta kassi kõrts 1930-dad.",
+    "viide": "",
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR13_KOLME_POE.png",
+    "allikas": "Pilt: K. Mäe erakogu"
+  }]
   },
 
-  "12": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+  "Kirik": {
+    "nimi": "Lähte Õigeusu kirik ja kalmistu",
+    "kirjeldus": "Lähte õigeusu kalmistu rajati 19. sajandil kiriku juurde. Kalmistule on maetud Eesti Vabadussõjas langenud Voldist pärit Mihkel Aren, kunstnik Paul Sepp, vaimulikud ja ümbruskonna õigeusuga seotud inimesed.",
+    "viide": "",
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR14_KALMISTU.png",
+    "allikas": "Pilt: Viivi Rohtla"
+  },{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR14_KIRIK.png",
+    "allikas": "Pilt: Georg Alliku erakogu"
+  }]
   },
 
-  "13": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
-    "pildid": []
-  },
-
-  "14": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
-    "pildid": []
-  },
-
-  "15": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
+  "Kapp15": {
+    "nimi": "Elektrikapimaal",
+    "kirjeldus": "\"Eesti inimeste soovid\"
+     Autor Kadri Kosk (2025)
+    Teosed valmisid osana festivalist TÕGE.",
+    "viide": "",
     "pildid": []
   },
 
@@ -124,7 +143,10 @@
     "nimi": "",
     "kirjeldus": "",
     "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   },
 
   "18": {
@@ -145,14 +167,20 @@
     "nimi": "",
     "kirjeldus": "",
     "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   },
 
   "21": {
     "nimi": "",
     "kirjeldus": "",
     "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   },
 
   "22": {
@@ -173,27 +201,39 @@
     "nimi": "",
     "kirjeldus": "",
     "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   },
 
   "25": {
     "nimi": "",
     "kirjeldus": "",
     "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   },
 
   "26": {
     "nimi": "",
     "kirjeldus": "",
     "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   },
 
   "27": {
     "nimi": "",
     "kirjeldus": "",
     "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   }
 }
