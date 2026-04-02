@@ -23,18 +23,25 @@
   }]
   },
 
-  "4": {
-    "nimi": "",
-    "kirjeldus": "",
-    "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+  "Kontor": {
+    "nimi": "EPA ühiselamu / Sovhoosi kontor",
+    "kirjeldus": "Sootaga sovhoosi hilisem kontorihoone oli esialgu ehitatud EPA ühiselamuks. Kontor asus
+kõrvalmajas. Sovhoos likvideeriti 1990-ndate algul.",
+    "viide": "",
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR4_KONTOR.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   },
 
-  "5": {
-    "nimi": "",
-    "kirjeldus": "",
+  "Rahvamaja": {
+    "nimi": "Raamatukogu - rahvamaja",
+    "kirjeldus": "Elumaja, mis toodi 1950ndatel Lähtele Pupastvere külast ja oli kasutuses raamatukogu ja kultuurimajana.",
     "viide": "MTÜ Lähte kogukond",
-    "pildid": []
+    "pildid": [{
+    "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR5_RAHVAMAJA.png",
+    "allikas": "Eve Tootsi erakogu"
+  }]
   },
 
   "6": {
