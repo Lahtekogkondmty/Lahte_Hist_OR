@@ -72,8 +72,7 @@
 
   "KatkuKalmistu": {
     "nimi": "Katkukalmistu",
-    "kirjeldus": "Lasteaia parkla oli kunagi katkukalmistu. Kindlaid tõendeid selle kohta ei ole, aga kohalikud legendid seda väidavad.
-        Esimene katkupuhang toimus Eestis 1378. aastal ja viimane Põhjasõja ajal.",
+    "kirjeldus": "Lasteaia parkla oli kunagi katkukalmistu. Kindlaid tõendeid selle kohta ei ole, aga kohalikud legendid seda väidavad.\nEsimene katkupuhang toimus Eestis 1378. aastal ja viimane Põhjasõja ajal.",
     "viide": "",
     "pildid": []
   },
@@ -101,8 +100,7 @@
 
   "Kolmpoodi": {
     "nimi": "Kolme poe rist / Musta kassi kõrts",
-    "kirjeldus": "Sojamaa-Jõgeva mnt ristis asus 1930ndatel aastatel 3 kauplust – 2 vürtspoodi ja kalapood, sellest ka kunagine nimetus - kolme poe rist.
-    Tähelepandamatu väike elumaja teiselpool Jõgeva maanteed oli kunagi kõrts, mille ajalugu ulatub tagasi Põhjasõja aastatesse (1700-1721). Kohalike suus kandis see nime Musta Kassi kõrts. Lähte/Musta kassi kõrts 1930-dad.",
+    "kirjeldus": "Sojamaa-Jõgeva mnt ristis asus 1930ndatel aastatel 3 kauplust – 2 vürtspoodi ja kalapood, sellest ka kunagine nimetus - kolme poe rist.\nTähelepandamatu väike elumaja teiselpool Jõgeva maanteed oli kunagi kõrts, mille ajalugu ulatub tagasi Põhjasõja aastatesse (1700-1721). Kohalike suus kandis see nime Musta Kassi kõrts. Lähte/Musta kassi kõrts 1930-dad.",
     "viide": "",
     "pildid": [{
     "url": "https://lahtekogkondmty.github.io/Lahte_Hist_OR/img/LAHTE_OR13_KOLME_POE.png",
@@ -125,9 +123,7 @@
 
   "Kapp15": {
     "nimi": "Elektrikapimaal",
-    "kirjeldus": "\"Eesti inimeste soovid\"
-     Autor Kadri Kosk (2025)
-    Teosed valmisid osana festivalist TÕGE.",
+    "kirjeldus": "\"Eesti inimeste soovid\"\nAutor Kadri Kosk (2025)\nTeosed valmisid osana festivalist TÕGE.",
     "viide": "",
     "pildid": []
   },
