@@ -43,6 +43,13 @@
         color: white;
     }
 
+    .statusline {
+        text-align: center;
+        font-size: 20px;
+        margin-top: 24px;
+        color: black;
+    }
+    
     .pilt-blokk {
         margin-top: 20px;
     }
@@ -119,7 +126,7 @@ fetch("objektid.json")
       if (o.viide) {
           html += `<p class="viide">${o.viide}</p>`;
       }
-
+      html += `<p class="statusline">MTÜ Lähte kogukond</p>`;
       document.getElementById("content").innerHTML = html;
   })
   .catch(err => {
